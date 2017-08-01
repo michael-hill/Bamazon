@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-hill/Bamazon.git"
+  },
+  "author": "Michael Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-hill/Bamazon/issues"
+  },
+  "homepage": "https://github.com/michael-hill/Bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0",
+    "require": "^2.4.20"
+  }
+}
